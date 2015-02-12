@@ -1,0 +1,27 @@
+/* Global */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  margin: 0 auto;
+  padding: 0;
+  border: none;
+  display: block;
+}
+
+/* Desktop */
+#desktop {
+  background: url("../images/bg-desktop-1170px.png") repeat-x top center;
+}
+
+#desktop img {
+  width: 1170px;
+}
