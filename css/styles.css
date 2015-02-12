@@ -18,10 +18,18 @@ img {
 }
 
 /* Desktop */
-#desktop {
-  background: url("../images/bg-desktop-1170px.png") repeat-x top center;
-}
-
 #desktop img {
   width: 1170px;
 }
+
+/* Home Desktop */
+#home-desktop {
+  background: url("../images/bg-home-desktop.png") repeat-x top center;
+}
+
+/* Services Desktop */
+#services-desktop {
+  background: url("../images/bg-services-desktop.png") repeat-x top center;
+}
+
+
