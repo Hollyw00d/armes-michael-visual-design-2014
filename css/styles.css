@@ -1,0 +1,52 @@
+/* Global */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  margin: 0 auto;
+  padding: 0;
+  border: none;
+  display: block;
+}
+
+
+/* Home Desktop */
+#home-desktop {
+  background: url("../images/bg-home-desktop.png") repeat-x top center;
+}
+
+/* Services Desktop */
+#services-desktop {
+  background: url("../images/bg-services-desktop.png") repeat-x top center;
+}
+
+/* Contact Sticky Btn for Desktop */
+#contact-sticky-btn-desktop {
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 380px;
+  background: url("../images/contact-sticky-btn-for-desktop.png");
+  width: 74px;
+  height: 225px;
+  text-indent: -9999px;
+}
+
+
+/* Home Tablet & Mobile Phone */
+#home-tablet-mobile-phone {
+  background: url("../images/bg-home-tablet-mobile-phone.png") repeat-x top center;
+}
+
+/* Services Tablet & Mobile Phone */
+#services-tablet-mobile-phone {
+  background: url("../images/bg-services-tablet-mobile-phone.png") repeat-x top center;
+}
