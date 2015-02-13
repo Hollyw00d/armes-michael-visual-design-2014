@@ -17,6 +17,7 @@ img {
   display: block;
 }
 
+
 /* Home Desktop */
 #home-desktop {
   background: url("../images/bg-home-desktop.png") repeat-x top center;
@@ -25,6 +26,18 @@ img {
 /* Services Desktop */
 #services-desktop {
   background: url("../images/bg-services-desktop.png") repeat-x top center;
+}
+
+/* Contact Sticky Btn for Desktop */
+#contact-sticky-btn-desktop {
+  display: block;
+  position: fixed;
+  left: 0;
+  top: 380px;
+  background: url("../images/contact-sticky-btn-for-desktop.png");
+  width: 74px;
+  height: 225px;
+  text-indent: -9999px;
 }
 
 
