@@ -17,11 +17,6 @@ img {
   display: block;
 }
 
-/* Desktop */
-#desktop img {
-  width: 1170px;
-}
-
 /* Home Desktop */
 #home-desktop {
   background: url("../images/bg-home-desktop.png") repeat-x top center;
@@ -33,3 +28,12 @@ img {
 }
 
 
+/* Home Tablet & Mobile Phone */
+#home-tablet-mobile-phone {
+  background: url("../images/bg-home-tablet-mobile-phone.png") repeat-x top center;
+}
+
+/* Services Tablet & Mobile Phone */
+#services-tablet-mobile-phone {
+  background: url("../images/bg-services-tablet-mobile-phone.png") repeat-x top center;
+}
