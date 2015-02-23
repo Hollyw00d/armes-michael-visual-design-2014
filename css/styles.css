@@ -8,6 +8,7 @@
 body {
   margin: 0;
   padding: 0;
+  background: #000;
 }
 
 img {
@@ -15,12 +16,6 @@ img {
   padding: 0;
   border: none;
   display: block;
-}
-
-
-/* Home Desktop */
-#home-desktop {
-  background: url("../images/bg-home-desktop.png") repeat-x top center;
 }
 
 /* Services Desktop */
