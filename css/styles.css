@@ -36,11 +36,6 @@ img {
 }
 
 
-/* Home Tablet & Mobile Phone */
-#home-tablet-mobile-phone {
-  background: url("../images/bg-home-tablet-mobile-phone.png") repeat-x top center;
-}
-
 /* Services Tablet & Mobile Phone */
 #services-tablet-mobile-phone {
   background: url("../images/bg-services-tablet-mobile-phone.png") repeat-x top center;
