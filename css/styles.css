@@ -18,10 +18,6 @@ img {
   display: block;
 }
 
-/* Services Desktop */
-#services-desktop {
-  background: url("../images/bg-services-desktop.png") repeat-x top center;
-}
 
 /* Contact Sticky Btn for Desktop */
 #contact-sticky-btn-desktop {
